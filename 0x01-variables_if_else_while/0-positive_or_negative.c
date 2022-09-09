@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /* main - print whether the number stored in the variable n is positive or nege
- *
- *
+ * Description - print whether the number stored in the variable n is positive
+ * or negative or zero
  * Return: 0
  */
 int main(void)
