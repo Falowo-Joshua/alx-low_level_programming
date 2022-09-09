@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
- /* main - print whether the number stored in the variable n is positive or nege
+/* main - print whether the number stored in the variable n is positive
  * Description - print whether the number stored in the variable n is positive
  * or negative or zero
  * Return: 0
