@@ -22,7 +22,7 @@ int main(void)
 			x = 0;
 			while (x < 10)
 			{
-			
+
 				if (x != y && y != z && z < y && y < x)
 				{
 					putchar('0' + z);
@@ -33,18 +33,18 @@ int main(void)
 					{
 						putchar(',');
 						putchar(' ');
-					}	
+					}
 				}
-				x++;	
-			
+				x++;
+
 			}
-			y++;	
-		
+			y++;
+
 		}
-		z++;	
-	
+		z++;
+
 	}
-	
+
 
 	putchar('\n');
 	return (0);
