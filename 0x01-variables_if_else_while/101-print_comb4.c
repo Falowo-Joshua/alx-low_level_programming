@@ -23,13 +23,13 @@ int main(void)
 			while (x = 10)
 			{
 			
-				if (a != b && b != c && c < b && b < a)
+				if (x != y && y != z && z < y && y < x)
 				{
 					putchar('0' + z);
 					putchar('0' + y);
 					putchar('0' + x);
 
-					if (a + b + c != 9 + 8 + 7)
+					if (x + by+ z != 9 + 8 + 7)
 					{
 						putchar(',');
 						putchar(' ');
