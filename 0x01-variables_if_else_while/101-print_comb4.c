@@ -20,7 +20,7 @@ int main(void)
 		while (y < 10)
 		{
 			x = 0;
-			while (x = 10)
+			while (x < 10)
 			{
 			
 				if (x != y && y != z && z < y && y < x)
@@ -29,7 +29,7 @@ int main(void)
 					putchar('0' + y);
 					putchar('0' + x);
 
-					if (x + y+ z != 9 + 8 + 7)
+					if (x + y + z != 9 + 8 + 7)
 					{
 						putchar(',');
 						putchar(' ');
@@ -41,7 +41,7 @@ int main(void)
 			y++;	
 		
 		}
-		Z++;	
+		z++;	
 	
 	}
 	
