@@ -1,15 +1,14 @@
 #include "main.h"
 /**
- * File: 4-isalpha.c
+ * _isalpha.c
  * Auth: Brennan D Baraban
  */
 
 int _isalpha(int c);
 {
-	if ((c >= 'a' && c <= 'z') ||	(c >= 'A' && c <= 'Z'))
-	{	
-	return (1);
-	}
+	if ((c >= 'a' && c <= 'z') ||	
+	    (c >= 'A' && c <= 'Z'))
+		return (1);
 	else
-	return (0);
+		return (0);
 }
