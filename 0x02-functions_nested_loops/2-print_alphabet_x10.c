@@ -3,7 +3,7 @@
 
 
 /**
- * print_alphabet_x10 -  prints the alphabet x10
+ * print_alphabet -  prints the alphabet x10
  *
  */
 
