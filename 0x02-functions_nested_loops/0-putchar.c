@@ -1,3 +1,5 @@
+#include "main.h"
+
 /*
  * File - 0-holberton.c
  * Auth - falowo joshua
