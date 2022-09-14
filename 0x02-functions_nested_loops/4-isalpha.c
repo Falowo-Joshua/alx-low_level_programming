@@ -1,7 +1,10 @@
 #include "main.h"
 /**
- * _isalpha.c
- * Auth: Brennan D Baraban
+ * _isalpha - returns 1 if c is a letter
+ * 
+ * @c: character to be checked if alpha
+ *
+ * Return: 1 if letter, 0 otherwise
  */
 
 int _isalpha(int c)
