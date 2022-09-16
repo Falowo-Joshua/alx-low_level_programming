@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - check the code for Holberton School students.
+ * print_diagonal - check the code for Holberton School students.
  * @n: Number of spaces wanted
  * Return: Always 0.
  */
@@ -21,9 +21,8 @@ void print_diagonal(int n)
 
 			_putchar('\\');
 			_putchar('\n');
-		
+
 		}
-	
+
 	}
 }
-
