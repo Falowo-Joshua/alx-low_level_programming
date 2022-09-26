@@ -1,8 +1,3 @@
-/**
- * File: 4-strpbrk.c
- * Auth:j tech(falowo joshua)
- */
-
 #include "main.h"
 
 /**
