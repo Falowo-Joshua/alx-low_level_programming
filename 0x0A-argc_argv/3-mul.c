@@ -20,3 +20,4 @@ if (argc != 3)
 }
 printf("%i\n", atoi(argv[1]) * atoi(argv[2]));
 return (0);
+}
